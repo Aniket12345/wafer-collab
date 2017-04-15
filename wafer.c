@@ -15,6 +15,8 @@ int fact(int b)
 	for(c=1;c<=b;c++)
      ans=ans*c;
  printf("the answer is %d \n",ans);
+ printf("y u do dis?\n");
+ printf("coz i can!!\n");
  return(ans);
 }
 

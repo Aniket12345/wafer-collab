@@ -15,6 +15,7 @@ int main()
 
 
 }
+//kaammmpaaaaiiiyyy!!!
 
 int add_no() {
 	int n; 

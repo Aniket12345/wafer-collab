@@ -18,7 +18,7 @@ int main()
 
 int add_no() {
 	int n; 
-	printf("Give me the no. of inputs\n");
+	printf("Give me the numbers of inputs\n");
 	scanf("%d",&n);
 	int array[n];
 	int sum = 0;

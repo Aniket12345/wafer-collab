@@ -18,7 +18,7 @@ int main()
 
 int add_no() {
 	int n; 
-	printf("Give me the no. of inputs\n");
+	printf("Give me the numbers of inputs\n");
 	scanf("%d",&n);
 	int array[n];
 	int sum = 0;
@@ -41,6 +41,8 @@ int fact(int b)
 	for(c=1;c<=b;c++)
      ans=ans*c;
  printf("the answer is %d \n",ans);
+ printf("y u do dis?\n");
+ printf("coz i can!!\n");
  return(ans);
 }
 
